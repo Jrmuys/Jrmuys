@@ -50,6 +50,7 @@
 <br />
 <br />
 
+---
 
   [![GitHub stats](https://github-readme-stats.vercel.app/api?count_private=true&username=jrmuys&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
