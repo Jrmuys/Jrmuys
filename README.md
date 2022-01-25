@@ -1,7 +1,9 @@
 ### Hi there, I'm Joel. 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/github/followers/jrmuys?logo=github&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+<!---[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+-->
+
+[![Twitter Follow](https://img.shields.io/github/followers/jrmuys?logo=github&style=for-the-badge)](https://github.com/Jrmuys)
 
 ## I'm a passionate and creative computer science student.
 
@@ -49,9 +51,9 @@
 <br />
 
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?count_private=true&username=jrmuys&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?count_private=true&username=jrmuys&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://github.com/Jrmuys
 [linkedin]: https://www.linkedin.com/in/joel-muyskens-797658157
