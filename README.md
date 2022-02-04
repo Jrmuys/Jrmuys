@@ -9,7 +9,7 @@
 
 - 🔭 I'm a graduating soon from Calvin University with a Computer Science degree and Electrical Engineering minor.
 - 🌱 I’m currently working as an intern at ADAC Automotive
-- 🔎 I’m looking to find a full time job at an exiting company
+- 🔎 I’m looking to find a full time job at an exciting company
 - ⚡ Fun fact: I love to play string bass and hike
 - 💡 I'm interested in design, full-stack web development, and embedded programming
 
