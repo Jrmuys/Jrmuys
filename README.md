@@ -5,10 +5,10 @@
 
 [![Twitter Follow](https://img.shields.io/github/followers/jrmuys?logo=github&style=for-the-badge)](https://github.com/Jrmuys)
 
-## I'm a passionate and creative computer science student.
+## I'm a passionate and creative computer science graduate.
 
-- 🔭 I'm a graduating soon from Calvin University with a Computer Science degree and Electrical Engineering minor.
-- 🌱 I’m currently working as an intern at ADAC Automotive
+- 🔭 I've graduaged from Calvin University with a Computer Science degree and Electrical Engineering minor.
+- 🌱 I recently worked as an intern and part-time software developer at ADAC Automotive
 - 🔎 I’m looking to find a full time job at an exciting company
 - ⚡ Fun fact: I love to play string bass and hike
 - 💡 I'm interested in design, full-stack web development, and embedded programming
