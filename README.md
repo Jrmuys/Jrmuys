@@ -5,8 +5,6 @@
 
 [![Twitter Follow](https://img.shields.io/github/followers/jrmuys?logo=github&style=for-the-badge)](https://github.com/Jrmuys)
 
-## I'm a passionate and creative software engineer.
-
 - 🔎 I’m working as a software engineer for Hitachi STS
 - 🔭 I graduaged from Calvin University with a Computer Science degree and Electrical Engineering minor.
 - 🌱 I recently worked as an intern and part-time software developer at ADAC Automotive
